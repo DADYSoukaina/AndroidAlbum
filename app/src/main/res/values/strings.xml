@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Album Photo</string>
+    <string name="bPrec">Préc</string>
+    <string name="bSuiv">Suiv</string>
+</resources>
